@@ -72,11 +72,10 @@ form div.input-fields {
 form div.form-row {
   display: flex;
   flex-direction: row;
-  gap: 150px;
+  column-gap: 150px;
   margin-left: 24px;
   flex-wrap: wrap;
   align-content: flex-start;
-  align-items: fle;
 }
 
 form div.data-field {
