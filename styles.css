@@ -108,6 +108,7 @@ form input:invalid {
 
 form button {
   margin-left: 44px;
+  margin-bottom: 24px;
   background-color: #a3a4b9;
   color: white;
   text-shadow: 1px 1px 3px #f9e8ce;
